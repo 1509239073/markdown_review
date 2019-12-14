@@ -115,3 +115,7 @@ diff --git a/readme.txt b/readme.txt
 ```
 
 
+***注意：标签总是和某个commit挂钩。如果这个commit既出现在master分支，又出现在dev分支，那么在这两个分支上都可以看到这个标签。
+查看git之后按q退出，本质上和vi差不多***
+
+
