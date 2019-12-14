@@ -27,9 +27,9 @@ ___粗斜体文本___
  
  This is [an example](http://example.com/ "1122425") inline link.
  
- [1.一级目录](#1)  
- 　[1.1二级目录](#1.1)  
- 　　[1.1.1三级目录](#1.1.1)  
+ [1.一级目录](#1) 
+ 　[1.1二级目录](#1.1) 　
+    　[1.1.1三级目录](#1.1.1)
  
  * 第一项
  * 第二项
@@ -88,6 +88,4 @@ baz | baz | baz
 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
 
 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
-   
-
    
